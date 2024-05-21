@@ -1,2 +1,2 @@
-# Pr-tica-01
+# Pratica-01
 olaa
